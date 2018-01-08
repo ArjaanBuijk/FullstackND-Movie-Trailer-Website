@@ -2,7 +2,7 @@
 
 ---
 ## Overview
-This is a project for the Udacity Stack Web Developer Nanodegree.
+This is a project for the Udacity Full Stack Web Developer Nanodegree.
 
 Using python, server-side code is written to store a list of my favorite movies, including box art imagery and a movie trailer URL. This data is served as a web page allowing visitors to review the movies and watch the trailers.
 
